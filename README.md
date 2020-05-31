@@ -5,4 +5,5 @@ Updated and streamlined Horiseon website</br>
 -Updated title</br>
 -Added descriptions of all elements/elemnt rules</br>
 Link to website: https://trbergh123.github.io/Horiseon-Website/ </br>
+--SCREENSHOT-- </br>
 ![](/assets/images/Horiseon-Screenshot.png)
