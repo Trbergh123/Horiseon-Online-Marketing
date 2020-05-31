@@ -1,6 +1,6 @@
 Updated and streamlined Horiseon website</br>
 -Add semantic html elements</br>
--combined and got rid of css rules</br>
+-combined and got rid of unnecessary css rules</br>
 -Added alt descritions</br> 
 -Updated title</br>
 -Added descriptions of all elements/elemnt rules</br>
