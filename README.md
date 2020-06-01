@@ -4,6 +4,6 @@ Updated and streamlined Horiseon website</br>
 -Added alt descritions</br> 
 -Updated title</br>
 -Added descriptions of all elements/elemnt rules</br>
-Link to website: https://trbergh123.github.io/Horiseon-Website/ </br>
+Link to website: https://trbergh123.github.io/Horiseon-Online-Marketing </br>
 --SCREENSHOT-- </br>
 ![](/assets/images/Horiseon-Screenshot.png)
